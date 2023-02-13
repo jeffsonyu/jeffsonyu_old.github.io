@@ -21,9 +21,9 @@ author: Jeffson, Zhenjun Yu
 
 navbar-links:
   About Me: "aboutme"
-  Researches:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Organization:
+    - MVIG: "https://www.mvig.org/"
+    - RobotFlow: "https://robotflow.ai/"
 #   Author's home: "https://deanattali.com"
 
 ################
@@ -79,7 +79,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: None
 
 ###########################
 # --- General options --- #
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jeffsonyu.github.io"
+# url-pretty: "jeffsonyu.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
