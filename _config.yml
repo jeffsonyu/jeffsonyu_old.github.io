@@ -22,6 +22,7 @@ author: Jeffson, Zhenjun Yu
 navbar-links:
   About Me: "aboutme"
   Organization:
+    - SPEIT: "https://speit.sjtu.edu.cn/"
     - MVIG: "https://www.mvig.org/"
     - RobotFlow: "https://robotflow.ai/"
 #   Author's home: "https://deanattali.com"
