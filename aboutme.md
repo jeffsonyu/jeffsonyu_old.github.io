@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Contact me via [My Email](jeffson-yu@sjtu.edu.cn)
+subtitle: Contact me via: jeffson-yu@sjtu.edu.cn
 ---
 
 ## Recent News
