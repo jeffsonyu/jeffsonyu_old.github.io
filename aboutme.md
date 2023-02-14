@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-<!-- subtitle: Why you'd want to go on a date with me -->
+subtitle: Contact me via <a href="jeffson-yu@sjtu.edu.cn">My Email</a>
 ---
 
 ## Recent News
