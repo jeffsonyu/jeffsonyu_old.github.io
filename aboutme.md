@@ -4,12 +4,19 @@ title: About me
 <!-- subtitle: Why you'd want to go on a date with me -->
 ---
 
-### Recent News
+## Recent News
 
-### Publication & Preprint
+## Publication & Preprint
 
-### Project
+## Project
 
-### Social Activity
+## Intership
 
-### Scholorship
+## Social Activity
+- **Vice President** of Academic Department of SJTU Model United Nation Association
+- **Associate Academic Director** of SJTU Model United Nation Conference 2021 and 2022
+- **Academic Advisor** of SJTU Model United Nation Conference 2023
+- Monitor of the class
+- Member of the SPEIT debate team
+
+## Scholorship
