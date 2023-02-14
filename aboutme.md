@@ -16,7 +16,7 @@ subtitle: Think Bigger, Think Deeper
 
 ## Social Activity
 - **Vice President** of Academic Department of SJTU Model United Nation Association
-- **Associate Academic Director** of SJTU Model United Nation Conference 2021 & 2022
+- **Deputy Academic Director** of SJTU Model United Nation Conference 2021 & 2022
 - **Academic Advisor** of SJTU Model United Nation Conference 2023
 - Monitor of the class
 - Member of the SPEIT debate team
