@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Contact me via <a href="mailto:jeffson-yu@sjtu.edu.cn">My Email</a>
+subtitle: Think Bigger, Think Deeper
 ---
 
 ## Recent News
