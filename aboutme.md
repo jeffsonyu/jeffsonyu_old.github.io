@@ -11,7 +11,8 @@ title: About me
 ## Project
 
 ## Intership
-- 
+- Data Analyst in KinTon Technology Nanchang:
+  Conduct statistical analysis to data, and realize different visualization.
 
 ## Social Activity
 - **Vice President** of Academic Department of SJTU Model United Nation Association
