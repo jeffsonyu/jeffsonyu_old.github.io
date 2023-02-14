@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Contact me via <a href="https://jeffsonyu.github.io/aboutme/">My Email</a>
+subtitle: Contact me via <a href="mailto:jeffson-yu@sjtu.edu.cn">My Email</a>
 ---
 
 ## Recent News
