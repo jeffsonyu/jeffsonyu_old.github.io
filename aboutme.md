@@ -5,7 +5,7 @@ subtitle: Think Bigger, Think Deeper
 ---
 
 ## Recent News
-[Feb.2023] 1 paper accepted by CVPR 2023!
+[Feb. 2023] 1 paper accepted by CVPR 2023!
 ## Publication & Preprint
 
 ## Project
