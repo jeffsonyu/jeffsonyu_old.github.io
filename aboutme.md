@@ -11,7 +11,7 @@ subtitle: Think Bigger, Think Deeper
 ## Project
 1. **Visual-Tactile Sensing for In-Hand Object Reconstruction** \
    Wenqiang Xu\*, **Zhenjun Yu**\*, Han Xue, Ruolin Ye, Siqiong Yao, Cewu Lu (\*=Equal Contribution) \
-   cvpr2023 | paper | code
+   CVPR 2023 | \[[paper](https://jeffsonyu.github.io/aboutme/)\] | \[[code](https://jeffsonyu.github.io/aboutme/)\]
 
 ## Intership
 - Data Analyst in KinTon Technology Nanchang:\
