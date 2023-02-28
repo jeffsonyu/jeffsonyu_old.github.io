@@ -9,6 +9,8 @@ subtitle: Think Bigger, Think Deeper
 ## Publication & Preprint
 
 ## Project
+1. **Visual-Tactile Sensing for In-Hand Object Reconstruction**
+   Wenqiang Xu*, **Zhenjun Yu***, Han Xue, Ruolin Ye, Siqiong Yao, Cewu Lu (*=Equal Contribution) 
 
 ## Intership
 - Data Analyst in KinTon Technology Nanchang:\
