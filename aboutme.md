@@ -10,10 +10,10 @@ subtitle: Think Bigger, Think Deeper
 ## Publication & Preprint
 \* = Equal Contribution
 1. **Visual-Tactile Sensing for In-Hand Object Reconstruction** \
-   Haoyuan Fu\*, Wenqiang Xu\*, Han Xue, Ruolin Ye, Siqiong Yao, Cewu Lu \
+   Wenqiang Xu\*, **Zhenjun Yu**\*, Han Xue, Ruolin Ye, Siqiong Yao, Cewu Lu \
    CVPR 2023 | \[[paper](https://arxiv.org/pdf/2303.14498.pdf)\] | \[[code](https://sites.google.com/view/vtaco/)\]
 1. **RFUniverse: A Multiphysics Simulation Platform for Embodied AI** \
-   Wenqiang Xu\*, **Zhenjun Yu**\*, Ruolin Ye, Han Xue, **Zhenjun Yu**, Tutian Tang, Yutong Li, Jieyi Zhang, Cewu Lu \
+   Wenqiang Xu\*, Haoyuan Fu\*, Ruolin Ye, Han Xue, **Zhenjun Yu**, Tutian Tang, Yutong Li, Jieyi Zhang, Cewu Lu \
    CVPR 2023 | \[[paper](https://jeffsonyu.github.io/aboutme/)\] | \[[code](https://jeffsonyu.github.io/aboutme/)\]
 <!-- ## Project -->
 
