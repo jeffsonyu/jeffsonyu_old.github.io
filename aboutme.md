@@ -17,7 +17,7 @@ subtitle: Think Bigger, Think Deeper
    Wenqiang Xu\*, **Zhenjun Yu**\*, Han Xue, Ruolin Ye, Siqiong Yao, Cewu Lu \
    CVPR 2023 | \[[paper](https://arxiv.org/pdf/2303.14498.pdf)\] | \[[page](https://sites.google.com/view/vtaco/)\] | \[[Video](https://www.youtube.com/watch?v=FCgxlTypvjE/)\]
 1. **RFUniverse: A Multiphysics Simulation Platform for Embodied AI** \
-   Haoyuan Fu\*, Wenqiang Xu\*, Ruolin Ye, Han Xue, **Zhenjun Yu**, Tutian Tang, Yutong Li, Jieyi Zhang, Cewu Lu \
+   Haoyuan Fu\*, Wenqiang Xu\*, Ruolin Ye\*, Han Xue, **Zhenjun Yu**, Tutian Tang, Yutong Li, Jieyi Zhang, Cewu Lu \
    RSS 2023 | \[[paper](https://arxiv.org/pdf/2202.00199.pdf)\] | \[[page](https://sites.google.com/view/rfuniverse)\]
 <!-- ## Project -->
 
