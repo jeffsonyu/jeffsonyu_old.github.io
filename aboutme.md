@@ -6,9 +6,13 @@ subtitle: Think Bigger, Think Deeper
 
 ## Recent News
 [Feb. 2023] 1 paper accepted by CVPR 2023! \
-[Apr. 2023] 1 paper accepted by RSS 2023!
+[Apr. 2023] 1 paper accepted by RSS 2023! \
+[Aug. 2023] 1 paper accepted by CoRL 2023! \
 ## Publication & Preprint
 \* = Equal Contribution
+1. **Precise Robotic Needle-Threading with Tactile Perception and Reinforcement Learning** \
+   **Zhenjun Yu**\*, Wenqiang Xu\*, Jieji Ren, Tutian Tang, Yutong Li, Siqiong Yao, Guoying Gu, Cewu Lu \
+   CoRL 2023 | \[[paper](https://sites.google.com/view/tac-needlethreading)\] | \[[page](https://sites.google.com/view/tac-needlethreading)\]
 1. **Visual-Tactile Sensing for In-Hand Object Reconstruction** \
    Wenqiang Xu\*, **Zhenjun Yu**\*, Han Xue, Ruolin Ye, Siqiong Yao, Cewu Lu \
    CVPR 2023 | \[[paper](https://arxiv.org/pdf/2303.14498.pdf)\] | \[[page](https://sites.google.com/view/vtaco/)\] | \[[Video](https://www.youtube.com/watch?v=FCgxlTypvjE/)\]
