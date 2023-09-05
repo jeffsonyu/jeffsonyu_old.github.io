@@ -7,7 +7,7 @@ subtitle: Think Bigger, Think Deeper
 ## Recent News
 [Feb. 2023] 1 paper accepted by CVPR 2023! \
 [Apr. 2023] 1 paper accepted by RSS 2023! \
-[Aug. 2023] 1 paper accepted by CoRL 2023! \
+[Aug. 2023] 1 paper accepted by CoRL 2023!
 ## Publication & Preprint
 \* = Equal Contribution
 1. **Precise Robotic Needle-Threading with Tactile Perception and Reinforcement Learning** \
