@@ -20,7 +20,7 @@ subtitle: Think Bigger, Think Deeper
    Haoyuan Fu\*, Wenqiang Xu\*, Ruolin Ye\*, Han Xue, **Zhenjun Yu**, Tutian Tang, Yutong Li, Jieyi Zhang, Cewu Lu \
    RSS 2023 | \[[paper](https://arxiv.org/pdf/2202.00199.pdf)\] | \[[page](https://sites.google.com/view/rfuniverse)\]
 1. **TacIPC: Intersection- and Inversion-free FEM-based Elastomer Simulation For Optical Tactile Sensors** \
-   Wenxin Du, Wenqiang Xu, Jieji Ren, **Zhenjun Yu**, Cewu Lu
+   Wenxin Du, Wenqiang Xu, Jieji Ren, **Zhenjun Yu**, Cewu Lu \
    _arxiv preprint_ | \[[paper](https://arxiv.org/abs/2311.05843)\] | \[[page](https://sites.google.com/view/tac-ipc)\]
 <!-- ## Project -->
 
