@@ -37,6 +37,7 @@ subtitle: Think Bigger, Think Deeper
 - Member of the SPEIT debate team
 
 ## Honor and Achievement
+- Outstanding Graduate of Shanghai Jiaotong University (Top 20%)
 - Third Prize of SPEIT Academic Award in 2021 & 2022, Top 15%, CNY ￥2500
 - SJTU Progress Scholorship in 2021, CNY ￥500
 - Mathematical Contest in Modeling, Meritorious Winner (as Main coder), 2021
