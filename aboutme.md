@@ -5,6 +5,7 @@ subtitle: Think Bigger, Think Deeper
 ---
 
 ## Recent News
+[Jan. 2024] 1 paper accepted by RA-L! \
 [Feb. 2023] 1 paper accepted by CVPR 2023! \
 [Apr. 2023] 1 paper accepted by RSS 2023! \
 [Aug. 2023] 1 paper accepted by CoRL 2023!
@@ -21,7 +22,7 @@ subtitle: Think Bigger, Think Deeper
    RSS 2023 | \[[paper](https://arxiv.org/pdf/2202.00199.pdf)\] | \[[page](https://sites.google.com/view/rfuniverse)\]
 1. **TacIPC: Intersection- and Inversion-free FEM-based Elastomer Simulation For Optical Tactile Sensors** \
    Wenxin Du, Wenqiang Xu, Jieji Ren, **Zhenjun Yu**, Cewu Lu \
-   _arxiv preprint_ | \[[paper](https://arxiv.org/abs/2311.05843)\] | \[[page](https://sites.google.com/view/tac-ipc)\]
+   RA-L | \[[paper](https://arxiv.org/abs/2311.05843)\] | \[[page](https://sites.google.com/view/tac-ipc)\]
 <!-- ## Project -->
 
 
@@ -42,3 +43,4 @@ subtitle: Think Bigger, Think Deeper
 - SJTU Progress Scholorship in 2021, CNY ￥500
 - Mathematical Contest in Modeling, Meritorious Winner (as Main coder), 2021
 - National Undergraduate Mathetical Contest In Modeling, 3nd prize in Shanghai, 2020
+-
