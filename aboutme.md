@@ -5,6 +5,7 @@ subtitle: Think Bigger, Think Deeper
 ---
 
 ## Recent News
+[Feb. 2024] 1 paper accepted by CVPR 2024! \
 [Jan. 2024] 1 paper accepted by RA-L! \
 [Feb. 2023] 1 paper accepted by CVPR 2023! \
 [Apr. 2023] 1 paper accepted by RSS 2023! \
@@ -23,6 +24,9 @@ subtitle: Think Bigger, Think Deeper
 1. **TacIPC: Intersection- and Inversion-free FEM-based Elastomer Simulation For Optical Tactile Sensors** \
    Wenxin Du, Wenqiang Xu, Jieji Ren, **Zhenjun Yu**, Cewu Lu \
    RA-L | \[[paper](https://arxiv.org/abs/2311.05843)\] | \[[page](https://sites.google.com/view/tac-ipc)\]
+1. **MS-MANO:Enabling Hand Pose Tracking with Biomechanical Constraints** \
+   Pengfei Xie, Wenqiang Xu, Tutian Tang, **Zhenjun Yu**, Cewu Lu \
+   CVPR 2024 | \[[page](https://openreview.net/forum?id=VUZDTVPhgO)\]
 <!-- ## Project -->
 
 
