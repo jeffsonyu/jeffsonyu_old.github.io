@@ -47,4 +47,3 @@ subtitle: Think Bigger, Think Deeper
 - SJTU Progress Scholorship in 2021, CNY ￥500
 - Mathematical Contest in Modeling, Meritorious Winner (as Main coder), 2021
 - National Undergraduate Mathetical Contest In Modeling, 3nd prize in Shanghai, 2020
--
