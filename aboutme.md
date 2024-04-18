@@ -27,7 +27,7 @@ subtitle: Think Bigger, Think Deeper
    RA-L | \[[paper](https://arxiv.org/abs/2311.05843)\] | \[[page](https://sites.google.com/view/tac-ipc)\]
 1. **MS-MANO:Enabling Hand Pose Tracking with Biomechanical Constraints** \
    Pengfei Xie, Wenqiang Xu, Tutian Tang, **Zhenjun Yu**, Cewu Lu \
-   CVPR 2024 | \[[page](https://openreview.net/forum?id=VUZDTVPhgO)\]
+   CVPR 2024 | \[[paper](https://arxiv.org/pdf/2404.10227)\] | \[[page](https://ms-mano.robotflow.ai/)\]
 <!-- ## Project -->
 
 
