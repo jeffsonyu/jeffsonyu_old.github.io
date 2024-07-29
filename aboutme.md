@@ -30,7 +30,7 @@ subtitle: Think Bigger, Think Deeper
    Pengfei Xie, Wenqiang Xu, Tutian Tang, **Zhenjun Yu**, Cewu Lu \
    CVPR 2024 | \[[paper](https://arxiv.org/pdf/2404.10227)\] | \[[page](https://ms-mano.robotflow.ai/)\]
 1. **DiPGrasp: Parallel Local Searching for Efficient Differentiable Grasp Planning** \
-   Wenqiang Xu\*, Jieyi Zhang\*, Tutian Tang, Zhenjun Yu, Yutong Li, Cewu Lu \
+   Wenqiang Xu\*, Jieyi Zhang\*, Tutian Tang, **Zhenjun Yu**, Yutong Li, Cewu Lu \
    RA-L | \[[paper](https://jeffsonyu.github.io/)\] | \[[page](https://jeffsonyu.github.io/)\]
 <!-- ## Project -->
 
