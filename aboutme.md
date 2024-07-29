@@ -5,6 +5,7 @@ subtitle: Think Bigger, Think Deeper
 ---
 
 ## Recent News
+[July. 2024] 1 paper accepted by RA-L! \
 [Feb. 2024] 1 paper accepted by CVPR 2024! \
 [Jan. 2024] 1 paper accepted by RA-L! \
 [Aug. 2023] 1 paper accepted by CoRL 2023! \
@@ -28,6 +29,9 @@ subtitle: Think Bigger, Think Deeper
 1. **MS-MANO:Enabling Hand Pose Tracking with Biomechanical Constraints** \
    Pengfei Xie, Wenqiang Xu, Tutian Tang, **Zhenjun Yu**, Cewu Lu \
    CVPR 2024 | \[[paper](https://arxiv.org/pdf/2404.10227)\] | \[[page](https://ms-mano.robotflow.ai/)\]
+1. **DiPGrasp: Parallel Local Searching for Efficient Differentiable Grasp Planning** \
+   Wenqiang Xu\*, Jieyi Zhang\*, Tutian Tang, Zhenjun Yu, Yutong Li, Cewu Lu \
+   RA-L | \[[paper](https://jeffsonyu.github.io/)\] | \[[page](https://jeffsonyu.github.io/)\]
 <!-- ## Project -->
 
 
